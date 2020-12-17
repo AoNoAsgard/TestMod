@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "TestMod",
+        "name": "TestMod",
+        "description": "QUESTA E' LA DESCRIZIONE FATTA DA ME",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["AoNoAsgard"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
